@@ -67,7 +67,7 @@ const products = [
     brand: 'Amazon',
     category: 'Electronics',
     price: 29.99,
-    countInStock: 0,
+    countInStock: 4,
     rating: 4,
     numReviews: 12,
   },
@@ -89,18 +89,18 @@ const products = [
     brand: "Nike",
     category: "men's clothing",
     price: 22.3,
-    countInStock: 0,
+    countInStock: 4,
     rating: 4.1,
     numReviews: 259
   },
   {
     name: "Mens Cotton Jacket",
-    image: "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    image: "https://thehouseofrare.com/cdn/shop/files/FELIU-GREEN-CCC7438_765x.jpg?v=1739168294",
     description: "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
     brand: "Addidas",
     category: "men's clothing",
     price: 55.99,
-    countInStock: 0,
+    countInStock: 5,
     rating: 4.7,
     numReviews: 500
   },
@@ -111,18 +111,18 @@ const products = [
     brand: "Roadaster",
     category: "men's clothing",
     price: 15.99,
-    countInStock: 0,
+    countInStock: 3,
     rating: 2.1,
     numReviews: 430
   },
   {
     name: "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-    image: "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    image: "https://allurejewellery.co/wp-content/uploads/2024/09/web-res-allure-model-108-edited-2048x1536.jpg",
     description: "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
     brand: "Jockey",
     category: "jewelery",
     price: 695,
-    countInStock: 0,
+    countInStock: 3,
     rating: 4.6,
     numReviews: 400
   },
@@ -133,7 +133,7 @@ const products = [
     brand: "SNM",
     category: "jewelery",
     price: 168,
-    countInStock: 0,
+    countInStock: 4,
     rating: 3.9,
     numReviews: 70
   },
@@ -144,7 +144,7 @@ const products = [
     brand: "Kohinoor",
     category: "jewelery",
     price: 9.99,
-    countInStock: 0,
+    countInStock: 3,
     rating: 3,
     numReviews: 400
   },
@@ -155,7 +155,7 @@ const products = [
     brand: "RATAN",
     category: "jewelery",
     price: 10.99,
-    countInStock: 0,
+    countInStock: 3,
     rating: 1.9,
     numReviews: 100
   },
@@ -166,7 +166,7 @@ const products = [
     brand: "HP",
     category: "electronics",
     price: 64,
-    countInStock: 0,
+    countInStock: 1,
     rating: 3.3,
     numReviews: 203
   },
@@ -177,7 +177,7 @@ const products = [
     brand: "HP",
     category: "electronics",
     price: 109,
-    countInStock: 0,
+    countInStock: 1,
     rating: 2.9,
     numReviews: 470
   },
@@ -188,7 +188,7 @@ const products = [
     brand: "DELL",
     category: "electronics",
     price: 109,
-    countInStock: 0,
+    countInStock: 5,
     rating: 0,
     numReviews: 0
   }
